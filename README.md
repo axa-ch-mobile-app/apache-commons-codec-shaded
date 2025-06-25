@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/axa-ch-mobile-app/apache-commons-codec-shaded.svg)](https://jitpack.io/#axa-ch-mobile-app/apache-commons-codec-shaded)
+
 # apache-commons-codec-shaded
 This is a "shaded" version of [Apache Commons Codec](https://commons.apache.org/codec) for use by Android app developers.
 
